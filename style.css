@@ -45,7 +45,7 @@ img {
 }
 
 #all {
-  text-align:center;
+  text-align: center;
 }
 
 .shop {
@@ -64,4 +64,9 @@ nav li {
   margin: 0 20px;
   display: inline-block;
   vertical-align: top;
+}
+
+nav li.about {
+  display: block;
+  margin-bottom: 40px;
 }
